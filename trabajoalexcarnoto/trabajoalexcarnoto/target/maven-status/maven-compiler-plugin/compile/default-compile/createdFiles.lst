@@ -1,0 +1,12 @@
+com\TrabajoEntornos\trabajoEntornos\Controllers\GuardarBaseDatos.class
+com\TrabajoEntornos\trabajoEntornos\TrabajoEntornosApplication.class
+com\TrabajoEntornos\trabajoEntornos\services\TraduceService.class
+com\TrabajoEntornos\trabajoEntornos\services\Traduction.class
+com\TrabajoEntornos\trabajoEntornos\Controllers\TraductorController.class
+com\TrabajoEntornos\trabajoEntornos\Controllers\TrabajoController.class
+com\TrabajoEntornos\trabajoEntornos\services\ContarVocales_y_Consonantes.class
+com\TrabajoEntornos\trabajoEntornos\services\TransformarFrase.class
+com\TrabajoEntornos\trabajoEntornos\models\TrabajoEntornosModel.class
+com\TrabajoEntornos\trabajoEntornos\services\ResponseData.class
+com\TrabajoEntornos\trabajoEntornos\repositories\TrabajoEntornosRepository.class
+com\TrabajoEntornos\trabajoEntornos\services\TrabajoEntornosBDservice.class
