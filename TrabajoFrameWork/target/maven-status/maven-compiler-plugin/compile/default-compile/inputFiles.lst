@@ -1,0 +1,10 @@
+C:\Users\Max\Downloads\trabajo-entornos-Max\src\main\java\com\TrabajoEntornos\trabajoEntornos\models\TrabajoEntornosModel.java
+C:\Users\Max\Downloads\trabajo-entornos-Max\src\main\java\com\TrabajoEntornos\trabajoEntornos\repositories\TrabajoEntornosRepository.java
+C:\Users\Max\Downloads\trabajo-entornos-Max\src\main\java\com\TrabajoEntornos\trabajoEntornos\TrabajoEntornosApplication.java
+C:\Users\Max\Downloads\trabajo-entornos-Max\src\main\java\com\TrabajoEntornos\trabajoEntornos\Controllers\TrabajoController.java
+C:\Users\Max\Downloads\trabajo-entornos-Max\src\main\java\com\TrabajoEntornos\trabajoEntornos\Controllers\TraductorController.java
+C:\Users\Max\Downloads\trabajo-entornos-Max\src\main\java\com\TrabajoEntornos\trabajoEntornos\services\ContarVocales_y_Consonantes.java
+C:\Users\Max\Downloads\trabajo-entornos-Max\src\main\java\com\TrabajoEntornos\trabajoEntornos\services\TrabajoEntornosBDservice.java
+C:\Users\Max\Downloads\trabajo-entornos-Max\src\main\java\com\TrabajoEntornos\trabajoEntornos\Controllers\GuardarBaseDatos.java
+C:\Users\Max\Downloads\trabajo-entornos-Max\src\main\java\com\TrabajoEntornos\trabajoEntornos\services\TransformarFrase.java
+C:\Users\Max\Downloads\trabajo-entornos-Max\src\main\java\com\TrabajoEntornos\trabajoEntornos\services\TraduceService.java
